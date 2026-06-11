@@ -8,55 +8,75 @@ Pattern Generator & Number Analyzer is a menu-driven Python application develope
 
 ## 🎯 Project Objectives
 
-- Generate patterns using nested loops.
-- Analyze numbers as Odd or Even.
-- Calculate the sum of numbers in a given range.
-- Demonstrate the use of Python control statements and loops.
-- Build a user-friendly menu-driven application.
+* Generate patterns using nested loops.
+* Analyze numbers as Odd or Even.
+* Calculate the sum of numbers in a given range.
+* Demonstrate the use of Python control statements and loops.
+* Build a user-friendly menu-driven application.
 
 ---
 
 ## ✨ Features
 
 ### 🔹 Pattern Generator
-- Takes the number of rows as input.
-- Generates a right-angled triangle pattern using `*`.
-- Uses nested loops for pattern creation.
+
+* Takes the number of rows as input.
+* Generates a right-angled triangle pattern using `*`.
+* Uses nested loops for pattern creation.
 
 ### 🔹 Number Analyzer
-- Accepts a start and end range.
-- Identifies whether each number is Odd or Even.
-- Calculates the sum of all numbers within the range.
+
+* Accepts a start and end range.
+* Identifies whether each number is Odd or Even.
+* Calculates the sum of all numbers within the range.
 
 ### 🔹 Exit Option
-- Allows users to safely exit the application.
-- Displays a professional exit message.
+
+* Allows users to safely exit the application.
+* Displays a professional exit message.
 
 ---
 
 ## 🛠️ Python Concepts Used
 
-- while Loop
-- for Loop
-- Nested Loops
-- range() Function
-- if-else Statements
-- break Statement
-- continue Statement
-- pass Statement
-- User Input Handling
+* while Loop
+* for Loop
+* Nested Loops
+* range() Function
+* if-else Statements
+* break Statement
+* continue Statement
+* pass Statement
+* User Input Handling
 
 ---
 
 ## 📂 Project Structure
 
-```
-Project Folder
+```text
+PR2_Logic_Box/
 │
 ├── logic_box.py
 ├── sample_output_jupyter.txt
-└── README.md
+├── README.md
+└── project_video.mp4
 ```
+
+---
+
+## 🎥 Project Demonstration Video
+
+A short project demonstration video has been included in this repository.
+
+**Video File:** `project_video.mp4`
+
+The video explains:
+
+* Project Introduction
+* Pattern Generation
+* Number Analysis
+* Python Concepts Used
+* Program Demonstration
 
 ---
 
@@ -73,17 +93,17 @@ Project Folder
 
 Through this project, I learned:
 
-- How to create menu-driven applications.
-- How to use loops effectively.
-- How to implement conditional statements.
-- How to validate user input.
-- How to organize program logic efficiently.
+* How to create menu-driven applications.
+* How to use loops effectively.
+* How to implement conditional statements.
+* How to validate user input.
+* How to organize program logic efficiently.
 
 ---
 
 ## 💻 Sample Menu
 
-```
+```text
 1. Generate a Pattern
 2. Analyze a Range of Numbers
 3. Exit
@@ -96,6 +116,12 @@ Through this project, I learned:
 **Priyal Patel**
 
 Python Mini Project
+
+---
+
+## ✅ Project Status
+
+Completed Successfully ✔️
 
 ---
 
